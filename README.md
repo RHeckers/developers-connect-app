@@ -1,3 +1,3 @@
-﻿# developers-connect-app
+﻿# Node,js backend with user, profile, posts, comments and like routes
 
-Work in progress, setting up the backend first and will build it out to be a MERN stack application. 
+JWT webtoken route protection, CRUD routes, custom input validation. 
